@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "299881081738",
+    "firebase_url": "https://appgestiontfio-default-rtdb.firebaseio.com",
+    "project_id": "appgestiontfio",
+    "storage_bucket": "appgestiontfio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299881081738:android:a50335f37b9e7bc5e0f673",
+        "android_client_info": {
+          "package_name": "com.tfioya.everth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299881081738-ns6r371rcjtl91rk4u5v61ie0nuavli1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tfioya.everth",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "299881081738-36hgfale88j9q5g18v34n5hq7pokukjo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALYLHc8OULluVKINHbeu7YyhJeP-lYNjM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "299881081738-36hgfale88j9q5g18v34n5hq7pokukjo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "299881081738-0ged56aal70u9ejp1onmjngbp8bsba5a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "tfioya.everthbrea.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299881081738:android:bcede02771000eb8e0f673",
+        "android_client_info": {
+          "package_name": "tfioya.everthbrea.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299881081738-t6m7631o7b8ud573j5u9vu7sc2ckbtk6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tfioya.everthbrea.app",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "299881081738-36hgfale88j9q5g18v34n5hq7pokukjo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALYLHc8OULluVKINHbeu7YyhJeP-lYNjM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "299881081738-36hgfale88j9q5g18v34n5hq7pokukjo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "299881081738-0ged56aal70u9ejp1onmjngbp8bsba5a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "tfioya.everthbrea.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
